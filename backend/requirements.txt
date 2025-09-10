@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+motor         # async MongoDB driver
+pymongo       # for GridFS
+python-multipart
